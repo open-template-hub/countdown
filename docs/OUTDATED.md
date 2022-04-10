@@ -6,7 +6,7 @@
 
 
 <h1 align="center">
-Open Template Hub - Countdown UI Component v1
+Open Template Hub - Countdown UI Component v4
   <br/>
 (outdated packages)
 </h1>
