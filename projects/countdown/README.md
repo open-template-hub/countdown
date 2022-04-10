@@ -8,14 +8,8 @@
 Open Template Hub - Countdown UI Component v4
 </h1>
 
-[![Version](https://img.shields.io/npm/v/@open-template-hub/countdown?color=CB3837&style=for-the-badge&logo=npm)](https://www.npmjs.com/package/@open-template-hub/countdown)
-[![Downloads](https://img.shields.io/npm/dt/@open-template-hub/countdown?color=CB3837&logo=npm&style=for-the-badge)](https://www.npmjs.com/package/@open-template-hub/countdown)
-[![License](https://img.shields.io/github/license/open-template-hub/countdown?color=43b043&style=for-the-badge)](LICENSE)
-[![Issues](https://img.shields.io/github/issues/open-template-hub/countdown?color=43b043&style=for-the-badge)](https://github.com/open-template-hub/countdown/issues)
-[![PRCLosed](https://img.shields.io/github/issues-pr-closed-raw/open-template-hub/countdown?color=43b043&style=for-the-badge)](https://github.com/open-template-hub/countdown/pulls?q=is%3Apr+is%3Aclosed)
-[![LastCommit](https://img.shields.io/github/last-commit/open-template-hub/countdown?color=43b043&style=for-the-badge)](https://github.com/open-template-hub/countdown/commits/master)
-[![Release](https://img.shields.io/github/release/open-template-hub/countdown?include_prereleases&color=43b043&style=for-the-badge)](https://github.com/open-template-hub/countdown/releases)
-[![SonarCloud](https://img.shields.io/sonar/quality_gate/open-template-hub_countdown?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud)](https://sonarcloud.io/dashboard?id=open-template-countdown)
+[![GitHubRepo](https://img.shields.io/badge/GitHub-Repository-24292e.svg?style=for-the-badge&logo=github)](https://github.com/open-template-hub/countdown)
+[![SonarCloud](https://img.shields.io/sonar/quality_gate/open-template-countdown?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud)](https://sonarcloud.io/dashboard?id=open-template-hub_countdown)
 
 This library contains countdown ui component for UI Templates on [Open Template Hub](https://github.com/open-template-hub)
 
