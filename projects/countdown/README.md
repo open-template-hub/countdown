@@ -9,7 +9,7 @@ Open Template Hub - Countdown UI Component v4
 </h1>
 
 [![GitHubRepo](https://img.shields.io/badge/GitHub-Repository-24292e.svg?style=for-the-badge&logo=github)](https://github.com/open-template-hub/countdown)
-[![SonarCloud](https://img.shields.io/sonar/quality_gate/open-template-countdown?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud)](https://sonarcloud.io/dashboard?id=open-template-hub_countdown)
+[![SonarCloud](https://img.shields.io/sonar/quality_gate/open-template-hub_countdown?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud)](https://sonarcloud.io/dashboard?id=open-template-countdown)
 
 This library contains countdown ui component for UI Templates on [Open Template Hub](https://github.com/open-template-hub)
 
