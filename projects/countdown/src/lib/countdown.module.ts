@@ -2,7 +2,7 @@ import { CommonModule } from '@angular/common';
 import { NgModule } from '@angular/core';
 import { CountdownComponent } from './component/countdown/countdown.component';
 
-@NgModule({
+@NgModule( {
   declarations: [
     CountdownComponent
   ],
@@ -12,5 +12,6 @@ import { CountdownComponent } from './component/countdown/countdown.component';
   exports: [
     CountdownComponent
   ]
-})
-export class CountdownModule { }
+} )
+export class CountdownModule {
+}
