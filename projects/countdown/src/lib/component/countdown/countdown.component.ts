@@ -27,7 +27,7 @@ export class CountdownComponent implements OnChanges {
 
   ngOnChanges( _: SimpleChanges ): void {
     if ( !this.warningThreshold || !this.errorThreshold ) {
-      this.warningThreshold = ( this.totalTime ?? 1) * 2 / 3;
+      this.warningThreshold = ( this.totalTime ?? 1 ) * 2 / 3;
       this.errorThreshold = ( this.totalTime ?? 1 ) / 3;
     }
 
@@ -36,8 +36,8 @@ export class CountdownComponent implements OnChanges {
   }
 
   setRemainingPathColor( timeLeft?: number ) {
-    if( !timeLeft) {
-      return
+    if ( !timeLeft ) {
+      return;
     }
 
     const { error, warning, success } = this.colorCodes;
@@ -51,8 +51,8 @@ export class CountdownComponent implements OnChanges {
   }
 
   calculateTimeFraction() {
-    const rawTimeFraction = ( this.timeLeft ?? 1) / ( this.totalTime ?? 1 );
-    return rawTimeFraction === 0 ? 0 : rawTimeFraction - ( 1 / ( this.totalTime ?? 1) ) * ( 1 - rawTimeFraction );
+    const rawTimeFraction = ( this.timeLeft ?? 1 ) / ( this.totalTime ?? 1 );
+    return rawTimeFraction === 0 ? 0 : rawTimeFraction - ( 1 / ( this.totalTime ?? 1 ) ) * ( 1 - rawTimeFraction );
   }
 
   setCircleDasharray() {
